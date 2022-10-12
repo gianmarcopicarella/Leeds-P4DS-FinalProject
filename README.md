@@ -3,7 +3,6 @@
 ##### Notebook template design: Brandon Bennett (2020.11.03, revised 2021.03.02)
 
 #### Student: Gianmarco Picarella
-
 #### Email: od21gp@leeds.ac.uk
 
 # Project Plan
