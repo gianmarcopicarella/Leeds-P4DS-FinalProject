@@ -1,7 +1,6 @@
+# Programming for Data Science - Final Data Analysis Project
+## Title: Sentiment analysis applied to the Videogame Industry: The audience reaction to Mario+Rabbids: Sparks of Hope's Ubisoft announcement
 ##### Notebook template design: Brandon Bennett (2020.11.03, revised 2021.03.02)
-
-# Sentiment analysis applied to the Videogame Industry: The audience reaction to Mario+Rabbids: Sparks of Hope's Ubisoft announcement
-
 
 #### Student: Gianmarco Picarella
 
