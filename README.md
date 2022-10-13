@@ -151,7 +151,7 @@ In the next cell, I defined a dictionary containing all the initialization data 
 
 
 ```python
-API_SETTINGS = {"API_KEY": "AIzaSyDRgRzPYPdlkTC4wRCfU2l1TkSlsNYZKlI",
+API_SETTINGS = {"API_KEY": "YOUR_API_KEY",
                "API_VERSION": "v3",
                "API_SERVICE_NAME": "youtube"}
 ```
